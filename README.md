@@ -19,3 +19,8 @@ Getting Started
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+
+
+Evidencias
+----------
+Las capturas del juego en ejecución se encuentran en la carpeta `evidences/`.
