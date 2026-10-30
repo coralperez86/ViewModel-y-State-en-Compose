@@ -1,3 +1,10 @@
+EVIDENCIAS
+<img width="720" height="1640" alt="WhatsApp Image 2026-10-29 at 7 55 17 PM" src="https://github.com/user-attachments/assets/00bbad88-061d-49ff-a71a-fcdcb6650855" />
+![Uploading WhatsApp Image 2026-10-29 at 7.56.07 PM.jpeg…]()
+
+
+
+
 Unscramble app
 =================================
 
